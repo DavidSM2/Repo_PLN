@@ -1,0 +1,1 @@
+Palabras con ningún significado o que aportan muy poca información.Suelen ser palabras muy comunes como,por ejemplo,preposiciones.En NLP se suele trabajar con vocabularios enormes en Don Quijote de la Mancha aparecen en torno a 23.000 palabras distintas por lo que interesa filtrar aquellas que menos información aporten.Debate:¿qué significa que aporten información?
